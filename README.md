@@ -2,7 +2,7 @@
 
 ## All the Assignments covered in our Data Structures and Algorithms course in Spring 2022 (1st Year 2nd Semester)
 
-## The assignments are all done in C language covering data structures like, LinkedList, Stacks, Queues, Priority Queues, Heaps, Binary Tree, various Sorting Algorithms, HashTables etc
+### The assignments are all done in C language covering data structures like, LinkedList, Stacks, Queues, Priority Queues, Heaps, Binary Tree, various Sorting Algorithms, HashTables etc
 
 ### Each Assignment has on an average 4 Questions each, which were submitted either on a college based code judging site, or were manually evaluated.
 ### Each manually evaluated assignments also accompany with a ReadMe file and a makefile, which helps in runnning the code smoothly
